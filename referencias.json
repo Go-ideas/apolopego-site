@@ -1,0 +1,16 @@
+{
+  "references": [
+    {
+      "id": 1,
+      "nombre_completo": "Apolo Pego Mora",
+      "nombre_visible": "Apolo Pego",
+      "cargo": "Fundador",
+      "empresa": "Go-Ideas",
+      "relacion_profesional": "Fundador",
+      "contexto_proyecto": "",
+      "comentario": "Gracias por ser parte de mi vida profesional",
+      "autorizado_publicacion": true,
+      "destacado": true
+    }
+  ]
+}
