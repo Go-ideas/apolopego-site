@@ -83,6 +83,42 @@
       "comentario": "He tenido la oportunidad de trabajar con Apolo Pego y puedo decir que es un colega con una capacidad técnica sobresaliente y, al mismo tiempo, muy enfocado en generar soluciones útiles y aterrizadas.\n\nComo actuario, tiene un dominio sólido de estadística, modelación y análisis de datos, y destaca especialmente por su habilidad para estructurar problemas complejos y convertirlos en modelos claros y bien fundamentados. En los proyectos que desarrollamos juntos, trabajó desde la limpieza y exploración de datos hasta la construcción y validación de modelos estadísticos, siempre con rigor metodológico y criterios técnicos bien sustentados.\n\nMás allá del análisis, como desarrollador tiene una gran fortaleza: entiende perfectamente las necesidades del cliente y traduce los requerimientos de negocio en herramientas funcionales y modelos accionables. No se queda en la teoría; implementa soluciones prácticas, bien estructuradas y listas para usarse en entornos reales.\n\nEs un profesional con pensamiento analítico, alto nivel técnico y una actitud muy colaborativa. Sin duda, alguien en quien confiar para proyectos que requieran profundidad cuantitativa y claridad estratégica.",
       "autorizado_publicacion": true,
       "destacado": true
+    },
+    {
+      "id": 8,
+      "nombre_completo": "Carlos de Zúñiga Ortiz",
+      "nombre_visible": "Carlos de Zúñiga",
+      "cargo": "Director",
+      "empresa": "WiseSense",
+      "relacion_profesional": "Cliente, Colega",
+      "contexto_proyecto": "",
+      "comentario": "Además de que tuve el placer de trabajar con Apolo en Ipsos por muchos años, como colega y cliente interno, como Director de Smart Sponsorship Evolution, Apolo Pego ha colaborado con nosotros en el diseño de modelos analíticos que fortalecieron significativamente nuestra capacidad estratégica.\n\nSu claridad metodológica nos ha permitido estructurar soluciones sólidas y comprensibles, facilitando su integración en nuestra operación. El impacto ha sido directo: logramos mayor precisión en nuestras recomendaciones a clientes, elevando la confianza en nuestras propuestas y decisiones.\n\nDestaco especialmente su comunicación clara, enfoque práctico y cumplimiento riguroso de plazos. Apolo combina profundidad técnica con visión de negocio, generando resultados realmente accionables. Recomiendo ampliamente su trabajo para organizaciones que buscan elevar su toma de decisiones mediante analítica bien fundamentada.",
+      "autorizado_publicacion": true,
+      "destacado": true
+    },
+    {
+      "id": 9,
+      "nombre_completo": "Álvaro Mejía Avilés",
+      "nombre_visible": "Álvaro Mejía Avilés",
+      "cargo": "Socio Fundador",
+      "empresa": "THINK DATA",
+      "relacion_profesional": "Colegas",
+      "contexto_proyecto": "",
+      "comentario": "Apolo es un gran profesional y un excelente técnico. En los proyectos en los que hemos colaborado juntos, sus contribuciones siempre han sido significativas e innovadoras.",
+      "autorizado_publicacion": true,
+      "destacado": true
+    },
+    {
+      "id": 10,
+      "nombre_completo": "Mauro Tallarico",
+      "nombre_visible": "Mauro Tallarico",
+      "cargo": "Director General",
+      "empresa": "Lemon Ice",
+      "relacion_profesional": "Cliente",
+      "contexto_proyecto": "",
+      "comentario": "Apolo es una persona que nos ayuda a encontrar soluciones a las necesidades de nuestros clientes...tiene una visión y experiencia muy amplia que nos permite desarrollar diferentes acercamientos para lograr los objetivos definidos en un trabajo en equipo....pero igual, lo mas importante es la calidad de persona que es....",
+      "autorizado_publicacion": true,
+      "destacado": true
     }
   ]
 }
