@@ -119,6 +119,54 @@
       "comentario": "Apolo es una persona que nos ayuda a encontrar soluciones a las necesidades de nuestros clientes...tiene una visión y experiencia muy amplia que nos permite desarrollar diferentes acercamientos para lograr los objetivos definidos en un trabajo en equipo....pero igual, lo mas importante es la calidad de persona que es....",
       "autorizado_publicacion": true,
       "destacado": true
+    },
+    {
+      "id": 11,
+      "nombre_completo": "Mónica Solano",
+      "nombre_visible": "Mónica Solano",
+      "cargo": "Directora General",
+      "empresa": "Logic Research",
+      "relacion_profesional": "Consultoría",
+      "contexto_proyecto": "",
+      "comentario": "Coincidir contigo, Apolo, y tener tu acompañamiento en esta ruta del análisis dentro de la investigación de mercados ha sido un verdadero regalo profesional.\n\nCuando te conocí en BRAIN, llevaba años buscando explicaciones claras y un uso realmente entendible de la Estadística. Había trabajado con muchos profesionistas del ramo, de todos los niveles, pero encontrarte fue un punto de inflexión: contigo comprendí y amplié el potencial real de la Estadística en mi práctica como investigadora.\n\nNo existe reto estadístico o matemático al que no le encuentres solución. La creación de algoritmos o modelos ad hoc es parte natural de tu día a día, y los implementas de una forma que hace que se viva el proceso, se disfrute y se piense: “lo complejo es sencillo”.\n\nCuando acompañas un proyecto, hay certeza: sin importar el nivel de complejidad, la rigurosidad técnica o la metodología requerida, siempre ofreces alternativas sólidas para avanzar y llegar a entregables de alta calidad y vanguardia.\n\nGracias por estar en esta bella ruta de la investigación y por compartir, con tanta generosidad, esa magia tuya de poner “la cereza en el pastel”.",
+      "autorizado_publicacion": true,
+      "destacado": true
+    },
+    {
+      "id": 12,
+      "nombre_completo": "Iván Castro",
+      "nombre_visible": "Iván Castro",
+      "cargo": "Director",
+      "empresa": "Planning Quant",
+      "relacion_profesional": "Jefe directo en Ipsos",
+      "contexto_proyecto": "",
+      "comentario": "Apolo es un gran profesional, experto en el uso de técnicas estadísticas aplicadas a la investigación de mercados. Siempre busca la mejor combinación entre profundidad y practicidad. La manera en que empata objetivos de negocio con metodologías analíticas hace de él el balance óptimo que asegura la mejor ejecución de estudios estratégicos.",
+      "autorizado_publicacion": true,
+      "destacado": true
+    },
+    {
+      "id": 13,
+      "nombre_completo": "Mónica Aguirre",
+      "nombre_visible": "Mónica Aguirre",
+      "cargo": "Data Science",
+      "empresa": "Ipsos",
+      "relacion_profesional": "Fue mi jefe directo",
+      "contexto_proyecto": "",
+      "comentario": "Trabajar con Apolo, ha sido una experiencia muy grata y enriquecedora. Como líder destaca por su claridad en la toma de decisiones, su enfoque analítico y su habilidad para hacer planes de negocio. Valoro especialmente la apertura al dialogo y el apoyo hacia el equipo. Más allá de ser un buen líder, es una excelente persona y un gran amigo.",
+      "autorizado_publicacion": true,
+      "destacado": true
+    },
+    {
+      "id": 14,
+      "nombre_completo": "Isis Peña",
+      "nombre_visible": "Isis Peña",
+      "cargo": "Freelance",
+      "empresa": "",
+      "relacion_profesional": "Amiga y Colega",
+      "contexto_proyecto": "",
+      "comentario": "He tenido la oportunidad de trabajar con Apolo y puedo decir que es una persona sumamente comprometida con su trabajo. Se involucra desde el inicio de cada proyecto y constantemente busca innovar en sus entregables, así como dar lo mejor en sus análisis y asesorías. Destaca por su profesionalismo, honestidad y facilidad para trabajar en equipo.\n\nAdemás, su interés constante por actualizarse y aportar valor en lo que hace es algo que siempre he admirado. Es alguien en quien se puede confiar plenamente a nivel profesional y personal.",
+      "autorizado_publicacion": true,
+      "destacado": true
     }
   ]
 }
