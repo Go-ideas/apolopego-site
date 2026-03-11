@@ -179,6 +179,18 @@
       "comentario": "Trabajar con alguien como Apolo es una tranquilidad que se agradece, siempre consciente de la importancia de la calidad de la información. Es un profesional preocupado por asesorar, compartir y proporcionar las mejores herramientas a sus clientes. Tiene amplia experiencia en análisis de la información, experto en múltiples modelos y herramientas, capaz de automatizar tareas complejas que facilitan la interpretación de los datos, desarrollador con gran visión.",
       "autorizado_publicacion": true,
       "destacado": true
+    },
+    {
+      "id": 16,
+      "nombre_completo": "Rebeca Morales",
+      "nombre_visible": "Rebeca Morales",
+      "cargo": "Lider de Cuentas",
+      "empresa": "Ipsos",
+      "relacion_profesional": "Colega",
+      "contexto_proyecto": "",
+      "comentario": "Tu trabajo siempre destacó por ir más allá del análisis tradicional: creaste modelos, innovaste dando el enfoque y el plus a nuestros proyectos, siempre con una solución.",
+      "autorizado_publicacion": true,
+      "destacado": true
     }
   ]
 }
